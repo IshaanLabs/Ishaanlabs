@@ -7,8 +7,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/IshaanLabs/IshaanLabs/assets/130181481/2ba7ac77-c34b-49b3-bd8c-4b91a46acb52" >
-
+<img align="right" alt="coding" width="400" src="https://github.com/Ginga1402/Ginga1402/assets/130181481/2ba7ac77-c34b-49b3-bd8c-4b91a46acb52" >
 
 
 
@@ -68,9 +67,9 @@ Feel free to reach out to me, and let's create something amazing together!
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanLabs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="IshaanLabs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanlabs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ishaanlabs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IshaanLabs&show_icons=true&locale=en&theme=blue-green&background=0D1117&hide_border=true" alt="IshaanLabs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaanlabs&show_icons=true&locale=en&theme=blue-green&background=0D1117&hide_border=true" alt="ishaanlabs" /></p>
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=IshaanLabs&theme=github_dark&hide_border=false)<br/>
