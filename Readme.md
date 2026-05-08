@@ -69,8 +69,9 @@ I work across three flavours of AI:
 ![](https://github-profile-trophy.vercel.app/?username=IshaanLabs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanlabs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ishaanlabs" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ishaanlabs&theme=blue-green&hide_border=true&layout=compact&langs_count=8&background=0D1117" alt="ishaanlabs" />
 </p>
+
 
 
 
